@@ -20,5 +20,5 @@ I'm Deepshikha Pal, a full stack web developer from India. I spend most of my ti
 - HTML, CSS, JavaScript  
 - React, Node.js, Express  
 - Java, Python, MongoDB
-
+  
 📫 Reach me at: paldeepshikha102@example.com
