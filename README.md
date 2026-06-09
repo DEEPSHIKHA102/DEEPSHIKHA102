@@ -7,6 +7,10 @@ I'm Deepshikha Pal, a full stack web developer from India. I spend most of my ti
 
 ## 🔗 Projects
 
+- **Portfolio**  
+  
+  🌐 Live Demo: [portfolio.netlify.app](https://deepshikha-pal-portfolio.netlify.app/) 
+
 - **Affiliate Plus**  
   GitHub: [Affiliate Plus Repo](https://github.com/DEEPSHIKHA102/Affiliate-Plus.git)  
   🌐 Live Demo: [affiliateplus.netlify.app](https://affiliate-plus.netlify.app) 
